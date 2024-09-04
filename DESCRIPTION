@@ -17,7 +17,7 @@ Imports:
     quadprog,
     plyr,
     magrittr,
-    MCMCpack
+    MCMCpack (== 1.4-5)
 Suggests:
     rmarkdown,
     knitr,
